@@ -1,0 +1,7 @@
+weather/exception/WeatherNotFoundException.class
+weather/exception/WeatherNotFoundAdvice.class
+weather/controller/WeatherController.class
+weather/service/WeatherService.class
+weather/WeatherApplication.class
+weather/model/Weather.class
+weather/repository/WeatherDataRepository.class

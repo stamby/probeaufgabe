@@ -1,0 +1,7 @@
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/repository/WeatherDataRepository.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/service/WeatherService.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/exception/WeatherNotFoundException.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/WeatherApplication.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/exception/WeatherNotFoundAdvice.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/controller/WeatherController.java
+/home/bruno/Desktop/backend-applicant-task-main/probeaufgabe/src/main/java/weather/model/Weather.java
